@@ -5,5 +5,6 @@ public class GithubDeneme1 {
         System.out.println("Deneme 1_3");
         System.out.println("Deneme 1_4");
         System.out.println("Deneme 1_5");
+        System.out.println("Github 1");
     }
 }
