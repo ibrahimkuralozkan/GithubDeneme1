@@ -8,5 +8,6 @@ public class GithubDeneme1 {
         System.out.println("Github 1");
         System.out.println("Github 2");
         System.out.println("Github 3");
+        System.out.println("Github 4");
     }
 }
